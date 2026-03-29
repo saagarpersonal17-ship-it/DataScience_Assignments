@@ -6,8 +6,7 @@ File: Saagar_DataScience_Week2.py
 ## Tools Used
 - Python
 - Pandas
-- Matplotlib
-- Seaborn
+- NumPy
   
 - ## Assignment 2: Titanic Dataset Analysis
 - Data Cleaning
