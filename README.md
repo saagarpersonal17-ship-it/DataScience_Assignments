@@ -14,3 +14,7 @@ File: Saagar_DataScience_Week2.py
 - Feature Engineering
 
 File: datascience_assignment_titanic.ipynb
+
+- ## Assignment 3: ChatBot
+- Adding commodity
+- commodity price
