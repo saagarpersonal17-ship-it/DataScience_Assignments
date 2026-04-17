@@ -36,7 +36,7 @@ This project is a **rule-based chatbot** developed using Python. It simulates a 
 
 ---
 
-## ⚙️ Features
+## Features
 
 * Greeting and user interaction
 * Book search functionality
